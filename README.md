@@ -2,7 +2,8 @@
 Test-Driven Develpoment with Python
 
 ```Git Bash
-workon superlists
+# 激活虚拟环境
+source virtualenv/bin/activate
 ```
 
 
